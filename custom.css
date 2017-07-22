@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda:700');
+
+.my-parallax{
+  min-height: 80vh;
+  display: block;
+  background-image: url('my_thumbnails/ghibli_hd03.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  /*background-position: center;*/
+  background-attachment: fixed;
+  
+  /*background-color:sandybrown;*/
+
+}
+
+.my-body{
+  font-family: "Merienda";
+}
+
+.my-jumbotron{
+  background-image: url('my_thumbnails/ghibli_hd03.jpg');
+}
